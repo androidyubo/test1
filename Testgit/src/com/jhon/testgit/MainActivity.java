@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		System.err.println("I am run 1");
+		System.err.println("I am run 2");
 	}
 
 	@Override
