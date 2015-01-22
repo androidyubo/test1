@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.err.println("I am run 1");
 		System.err.println("I am run 2");
+		System.err.println("I am run 3");
 	}
 
 	@Override
