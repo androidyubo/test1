@@ -15,8 +15,13 @@ public class MainActivity extends Activity {
 		System.err.println("I am run 3");
 		System.err.println("I am run 4");
 		System.err.println("I am run 5");
+		System.err.println("I am run 7");
 		System.err.println("I am run 6");
+
 		System.err.println("8888888888888");
+
+		System.err.println("I am run 9");
+		System.err.println("I am run 8");
 	}
 
 	@Override
