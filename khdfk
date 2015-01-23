@@ -1,14 +1,0 @@
-[1mdiff --git a/Testgit/src/com/jhon/testgit/MainActivity.java b/Testgit/src/com/jhon/testgit/MainActivity.java[m
-[1mindex 83207eb..fa194f9 100644[m
-[1m--- a/Testgit/src/com/jhon/testgit/MainActivity.java[m
-[1m+++ b/Testgit/src/com/jhon/testgit/MainActivity.java[m
-[36m@@ -25,7 +25,8 @@[m [mpublic class MainActivity extends Activity {[m
- 		System.err.println("567-00000000000000");[m
- 		System.err.println("567890000000");[m
- 		System.err.println("567890580989708700");[m
-[31m-        System.err.println("50000000000000000000000000");[m
-[32m+[m[32m        System.err.println("50000000000000000000000000");[m[41m[m
-[32m+[m		[32mSystem.err.println("50retretrete0000000");[m
- 	}[m
- [m
- 	@Override[m
